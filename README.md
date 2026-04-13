@@ -1,5 +1,5 @@
 # Magist vs ENIAC Partnership Analysis
-Magist vs ENIAC Partnership Analysis
+
 
 Project Overview:
 
