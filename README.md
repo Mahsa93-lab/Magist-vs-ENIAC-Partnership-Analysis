@@ -1,4 +1,4 @@
-# sql_business_exploration
+# Magist vs ENIAC Partnership Analysis
 Magist vs ENIAC Partnership Analysis
 
 Project Overview:
