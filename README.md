@@ -1,16 +1,27 @@
 # sql_business_exploration
-Project Reflection
+Magist vs ENIAC Partnership Analysis
 
-Summary:
-Evaluated Magist as a potential partner for ENIAC based on delivery performance and tech product market fit.
+Project Overview
+I analyzed the Magist platform to evaluate whether it is a suitable partner for ENIAC’s high-end tech products.
 
-Tools:
-MySQL, Tableau
+📊 Key insights:
+ • Tech products make up <10% of total products and revenue
+ • Product distribution: 2912 non-tech vs 511 tech items
+ • Average tech product price is below €120
+ • Tech segment shows low demand and limited customer engagement
+ • Delivery performance is reliable (mostly on-time, 6–10 days avg.)
 
-Insights:
- • Reliable delivery performance
- • Low share of tech products in revenue
- • Limited strategic alignment with ENIAC
+📦 Seller & Market analysis:
+ • High dependency on a small number of sellers
+ • Limited product variety in the tech category
+ • Potential supply and scalability risks
 
-Conclusion:
-Magist is not a strong fit for ENIAC’s high-end tech business; partnership is not recommen
+⭐️ Customer Review Analysis:
+ • Non-tech products receive significantly more reviews than tech products
+ • Tech products have lower customer engagement and feedback
+ • Overall lower purchase activity in the tech segment
+
+🎯 Conclusion:
+Despite good delivery performance, Magist has a weak presence in the tech market and is not a suitable platform for ENIAC’s high-end products. A full partnership is not recommended.
+
+🛠️ Tools: MySQL, Tableau
