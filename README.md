@@ -8,8 +8,6 @@ I analyzed the Magist platform to evaluate whether it is a suitable partner for 
 Key insights:
 
  • Tech products make up <10% of total products and revenue
- 
- • Product distribution: 2912 non-tech vs 511 tech items
 
  • Average tech product price is below €120
  
@@ -18,6 +16,8 @@ Key insights:
  • Delivery performance is reliable (mostly on-time, 6–10 days avg.)
 
 Seller & Market analysis:
+
+ • Sellers distribution: 2912 non-tech vs 511 tech sellers
 
  • High dependency on a small number of sellers
  
