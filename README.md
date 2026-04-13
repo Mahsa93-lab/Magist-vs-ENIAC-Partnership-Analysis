@@ -1,16 +1,16 @@
 # sql_business_exploration
 Project Reflection
 
-Summary
+Summary:
 Evaluated Magist as a potential partner for ENIAC based on delivery performance and tech product market fit.
 
-Tools
+Tools:
 MySQL, Tableau
 
-Insights
+Insights:
  • Reliable delivery performance
  • Low share of tech products in revenue
  • Limited strategic alignment with ENIAC
 
-Conclusion
+Conclusion:
 Magist is not a strong fit for ENIAC’s high-end tech business; partnership is not recommen
